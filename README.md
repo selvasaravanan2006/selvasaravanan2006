@@ -1,27 +1,37 @@
 # 👋 Hi, I'm Selva Saravanan A
 
-### 💻 Software Developer | B.Tech Information Technology
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Developer;B.Tech+Information+Technology;Python+%7C+Java+%7C+Web+Developer" />
+</p>
 
-I'm a passionate software developer interested in building **practical, innovative, and user-friendly applications**. I enjoy learning new technologies, solving problems, and turning ideas into working software.
+<p align="center">
+  <a href="https://github.com/selvasaravaran2006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://selvasaravaran2006.github.io/saravana-builders/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 **B.Tech Information Technology**
-* 💻 **Software Developer**
-* 🐍 Interested in **Python Development**
-* ☕ Working with **Java**
-* 🌐 Building websites using **HTML & CSS**
-* 🔨 Currently working on real-world projects
-* 🎯 Always learning and improving my development skills
+I'm a **Software Developer** and **B.Tech Information Technology student** passionate about building practical applications and solving real-world problems through technology.
+
+* 🎓 B.Tech Information Technology
+* 💻 Software Developer
+* 🐍 Python Developer
+* ☕ Java Developer
+* 🌐 Web Development
+* 🚀 Interested in AI, software development and emerging technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -30,39 +40,32 @@ I'm a passionate software developer interested in building **practical, innovati
 
 ### 🏗️ Saravana Builders
 
-A modern construction-related web project designed to provide a professional digital experience for customers.
+A modern construction website focused on providing a professional digital experience for customers.
 
-🔗 **Live Website:**
-https://selvasaravanan2006.github.io/saravana-builders/
+**Live Project:**
+👉 https://selvasaravaran2006.github.io/saravana-builders/
 
 ---
 
 ## 🎯 Career Goal
 
-> To become a skilled and professional software developer, creating impactful and scalable applications that solve real-world problems while continuously expanding my knowledge in software development and emerging technologies.
+To become a **professional software developer** and build scalable, innovative applications that solve real-world problems while continuously improving my technical and problem-solving skills.
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub
 
-* Advanced Python
-* Java Development
-* Web Development
-* Software Engineering
-* AI & Machine Learning
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/selvasaravaranan2006">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selvasaravaran2006&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvasaravaran2006&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### ⚡ "Code. Learn. Build. Repeat."
+<p align="center">
+  <i>"Build. Learn. Improve."</i>
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  Thanks for visiting my profile! 👋
+</p>
